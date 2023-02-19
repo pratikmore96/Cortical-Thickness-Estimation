@@ -6,7 +6,7 @@ CS590_challenge_2_cortical_thickness.pdf
 
 
 Data files:
-raw_t1_subject_01.nii.gz
+raw_t1_subject_01.nii.gz,
 raw_t1_subject_02.nii.gz
 
 
